@@ -27,7 +27,7 @@ docs/undocumented.json
 vendor
 
 ## Carthage
-Carthage/Build
+#Carthage/Build
 
 ## CocoaPods
 Pods/
